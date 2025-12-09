@@ -14,4 +14,4 @@ KG & LLM Workshop will be a full day workshop, taking place during the pre-confe
 
 ![The GOBLIN COST action logo](/images/goblin-small.png)
 
-The KG & LLM workshop is supported by the GOBLIN COST action.
+The KG & LLM workshop is endorsed by COST Action CA23147 GOBLIN - Global Network on Large-Scale, Cross-domain and Multilingual Open Knowledge Graphs, supported by COST (European Cooperation in Science and Technology, https://www.cost.eu).
