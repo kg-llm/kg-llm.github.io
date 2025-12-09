@@ -44,6 +44,10 @@ enableRobotsTXT = true
   background_color_class = "bg-mid-gray"
   recent_posts_number = 6
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+    
 #[[params.ananke_socials]]
 #name = "twitter"
 #url = "https://twitter.com/GoHugoIO"
