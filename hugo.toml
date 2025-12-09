@@ -8,7 +8,7 @@ theme = "ananke"
 #theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 baseurl = "https://kg-llm.github.io"
-title = "Knowledge Graphs & Large Language Models Workshop @ LREC 2026"
+title = "KG & LLM @ LREC 2026"
 languageCode = "en-us"
 contentdir    = "content"
 layoutdir     = "layouts"
@@ -26,7 +26,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Knowledge Graphs & Large Language Models Workshop @ LREC 2026"
+    title = "KG & LLM @ LREC 2026"
     weight = 1
     contentDir = "content/en"
 
@@ -48,4 +48,3 @@ enableRobotsTXT = true
 #name = "twitter"
 #url = "https://twitter.com/GoHugoIO"
 
-# Photo by Federico Grisorio: https://www.pexels.com/photo/view-of-turin-from-monte-dei-cappuccini-4117978/

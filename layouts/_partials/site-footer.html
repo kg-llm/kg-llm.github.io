@@ -1,0 +1,14 @@
+<footer class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="{{ .Site.Home.Permalink }}" >
+    &copy; {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safe.HTML }} {{ now.Format "2006"}} {{ end }}
+  </a>
+    <div>{{ partials.IncludeCached "social/follow.html" . }}</div>
+  </div>
+  <div class="flex justify-between">
+    <a class="f6 fw1 lh-solid hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://www.pexels.com/photo/the-cathedral-of-santa-maria-of-palma-during-night-time-5402894/" >
+      Credits: Photo by David Vives on pexels
+    </a>
+    </div>
+  <div></div>
+</footer>
