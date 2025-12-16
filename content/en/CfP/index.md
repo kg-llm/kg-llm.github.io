@@ -51,17 +51,17 @@ We encourage submissions on (but not limited to):
 
 ### Application Domains
 
-All application domains are welcome (Digital Humanities, FinTech, Linguistics, Education, Cybersecurity, etc.) as long as the work uses both Knowledge Graphs and Large Language Models.
+All application domains are welcome (Digital Humanities, FinTech, Linguistics, Education, Cybersecurity, etc.) as long as the work uses **both Knowledge Graphs and Large Language Models**.
 
 ## Submission Guidelines
 
--   Submission Format: Papers up to 8 pages excluding references.
--   Style: All submissions must follow the LREC 2026 format and use the official LREC author kit. (available at [https://lrec2026.info/authors-kit/](https://lrec2026.info/authors-kit/) )
--   Review Process: Double-blind peer review. Submissions must be fully anonymized.
--   Submission System: Papers must be submitted via the START conference system *(link to be provided)*.
--   Language Resources: In line with LREC policies, authors are encouraged to describe, document, and share language resources, datasets, models, evaluation tools, or annotation guidelines used or created in their work.
--   Accepted Papers: All accepted papers will be included in the LREC 2026 workshop proceedings.
--   Presentation: Accepted papers will be presented as oral or poster sessions during the workshop.    
+-   **Submission Format**: Papers up to 8 pages excluding references.
+-   **Style**: All submissions must follow the LREC 2026 format and use the official LREC author kit. (available at [https://lrec2026.info/authors-kit/](https://lrec2026.info/authors-kit/) )
+-   **Review Process**: Double-blind peer review. Submissions must be fully anonymized.
+-   **Submission System**: Papers must be submitted via the START conference system [https://softconf.com/lrec2026/KGLLM/](https://softconf.com/lrec2026/KGLLM/).
+-   **Language Resources**: In line with LREC policies, authors are encouraged to describe, document, and share language resources, datasets, models, evaluation tools, or annotation guidelines used or created in their work.
+-   **Accepted Papers**: All accepted papers will be included in the LREC 2026 workshop proceedings.
+-   **Presentation**: Accepted papers will be presented as oral or poster sessions during the workshop.    
 
 ## Important Dates
 
@@ -69,8 +69,8 @@ All application domains are welcome (Digital Humanities, FinTech, Linguistics, E
 
 -   Paper submission deadline: **26th February 2026**
 -   Notification to authors: **24th March 2026**
--   Camera-ready due: **30 March 2026**
--   Workshop date: *(exact dates to be decided)*
+-   Camera-ready due: **30th March 2026**
+-   Workshop date: **16th May 2026**
 
 ## Contact
 
@@ -82,4 +82,3 @@ For questions, please contact the workshop organizers at: [kg-llm-26@googlegroup
 -   Katerina Gkirtzou, Athena Research Center, Greece
 -   Michael Cochez, Ellis Institute Finland & Åbo Akademi, Finland
 -   Jan-Christoph Kalo, University of Amsterdam, Netherlands
--   Mehwish Alam, Télécom Paris, Institut Polytechnique de Paris, France
