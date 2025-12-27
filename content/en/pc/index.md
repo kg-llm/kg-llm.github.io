@@ -16,7 +16,6 @@ menu:
 - Katerina Gkirtzou, Athena Research Center, Greece
 - Michael Cochez, Ellis Institute Finland & Åbo Akademi, Finland
 - Jan-Christoph Kalo, University of Amsterdam, Netherlands
-- Mehwish Alam, Télécom Paris, Institut Polytechnique de Paris, France
 
 # Program Committee
 
