@@ -1,6 +1,6 @@
 ---
 date: 2025-12-08
-description: "The Grand Hall"
+description: "Web site is open"
 title: "The KG-LLM website is open"
 featured_image: 
 ---
