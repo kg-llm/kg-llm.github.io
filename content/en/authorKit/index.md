@@ -18,7 +18,7 @@ menu:
 
 Submission is electronic, using the Softconf START conference management system via the link:
 
-[KG & LLM Softconf link (will be updated later)]()
+[KG & LLM Softconf link](https://softconf.com/lrec2026/KGLLM/)
 
 All papers must follow the LREC 2026 article format, using the supplied official style files. The templates can be downloaded from the Style Files and Formatting page provided on the website. Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
