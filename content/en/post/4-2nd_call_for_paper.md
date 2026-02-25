@@ -1,5 +1,5 @@
 ---
-date: 2025-02-05
+date: 2026-02-05
 description: "The second call for paper has been sent to usual mailing lists."
 title: "Second Call for Paper"
 featured_image:

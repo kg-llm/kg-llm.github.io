@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2025-02-25
+date: 2026-02-25
 description: "Changes in the calendar as the Last CfP is out."
 title: "Last Call for Paper and deadline extension"
 featured_image: ''

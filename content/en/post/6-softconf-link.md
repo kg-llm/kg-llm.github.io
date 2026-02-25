@@ -1,5 +1,5 @@
 ---
-date: 2025-02-19
+date: 2026-02-19
 description: "We updated the link to workshop submission site."
 title: "Submit now on Softconf"
 featured_image: ''
