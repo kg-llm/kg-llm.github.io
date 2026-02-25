@@ -67,7 +67,7 @@ All application domains are welcome (Digital Humanities, FinTech, Linguistics, E
 
 *All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”)*
 
--   Paper submission deadline: **26th February 2026**
+-   Paper submission deadline: **1st March 2026** *(extended deadline)*
 -   Notification to authors: **24th March 2026**
 -   Camera-ready due: **30th March 2026**
 -   Workshop date: **16th May 2026**
