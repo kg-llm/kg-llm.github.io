@@ -23,7 +23,7 @@ menu:
 - Bradley Allen, University of Amsterdam, The Netherlands
 - Russa Biswas, Aalborg University, Denmark
 - Francesco Compagno, University of Amsterdam, The Netherlands
-- Milan Dojchinovski, Czech Technical University in Prague, Czech Republic
+- Milan Dojchinovski, Czech Technical University in Prague and InfAI, Germany
 - Radovan Garabik, Ľ. Štúr Institute of Linguistics, Slovak Academy of Sciences, Slovakia
 - Daniela Gifu, University of Iași (UAIC), Romania
 - Hugo Gonçalo Oliveira, University of Coimbra, Portugal
