@@ -25,7 +25,7 @@ menu:
 - Francesco Compagno, University of Amsterdam, The Netherlands
 - Milan Dojchinovski, Czech Technical University in Prague and InfAI, Germany
 - Radovan Garabik, Ľ. Štúr Institute of Linguistics, Slovak Academy of Sciences, Slovakia
-- Daniela Gifu, University of Iași (UAIC), Romania
+- Daniela Gifu, Romanian Academy, Iasi Branch, Romania
 - Hugo Gonçalo Oliveira, University of Coimbra, Portugal
 - Jorge Gracia, University of Zaragoza, Spain
 - Paul Groth, University of Amsterdam, The Netherlands
