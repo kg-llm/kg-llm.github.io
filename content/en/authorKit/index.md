@@ -3,9 +3,10 @@ title: "Submitting"
 hide_title: true
 author: false
 description: "The authors kit is the one used for LREC 2026."
+type: page
 menu:
   main:
-    weight: 3
+    weight: 4
 ---
 
 ## Authors kit

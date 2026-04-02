@@ -3,9 +3,10 @@ title: "Call for Papers"
 description: "How do we integrate Knowledge Graphs and Large Language Models to get the best of both worlds?"
 author: false
 featured_image: '/images/palma.jpg'
+type: page
 menu:
   main:
-    weight: 2
+    weight: 3
 ---
 
 **We invite submissions of original research that leverages both Knowledge Graphs (KGs) and Large Language Models (LLMs) in any domain of Natural Language Processing or language resource development.**

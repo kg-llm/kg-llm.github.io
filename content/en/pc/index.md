@@ -3,7 +3,7 @@ title: "Organizers"
 hide_title: true
 description: ""
 author: false
-
+type: page
 featured_image: '/images/palma.jpg'
 menu:
   main:
