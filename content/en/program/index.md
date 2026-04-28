@@ -31,7 +31,7 @@ menu:
 - [*Is One Token All It Takes? Graph Pooling Tokens for LLM-based GraphQA*](pdf/2026.kgllmlrec26-1.4.pdf)
   Ankit Grover, Lodovico Giaretta, Remi Bourgerie and Sarunas Girdzijauskas
 
-- [*Improving Text2Cypher with Confidence-Based Test-Time Strategies*](pdf/2026.kgllmlrec26-1.5.pdf) [![poster](poster.png?height=18)](presentation/poster-1.5.pdf)
+- [*Improving Text2Cypher with Confidence-Based Test-Time Strategies*](pdf/2026.kgllmlrec26-1.5.pdf) [![poster](poster.png?height=18)](presentation/poster-1.5.pdf) [![video](video.png?height=18)](https://drive.google.com/file/d/1zMXRrxCNsyjpDn64rqbFZBX7pd8V8t_1/view?usp=sharing)
   Rima Dessi and Makbule Gulcin Ozsoy
 
 - [*Integrating Knowledge Graph and Large Language Models for Defining Business Strategies*](pdf/2026.kgllmlrec26-1.6.pdf)
