@@ -31,7 +31,7 @@ menu:
 - [*Is One Token All It Takes? Graph Pooling Tokens for LLM-based GraphQA*](pdf/2026.kgllmlrec26-1.4.pdf)
   Ankit Grover, Lodovico Giaretta, Remi Bourgerie and Sarunas Girdzijauskas
 
-- [*Improving Text2Cypher with Confidence-Based Test-Time Strategies*](pdf/2026.kgllmlrec26-1.5.pdf)
+- [*Improving Text2Cypher with Confidence-Based Test-Time Strategies*](pdf/2026.kgllmlrec26-1.5.pdf) [![poster](poster.png?height=18)](presentation/poster-1.5.pdf)
   Rima Dessi and Makbule Gulcin Ozsoy
 
 - [*Integrating Knowledge Graph and Large Language Models for Defining Business Strategies*](pdf/2026.kgllmlrec26-1.6.pdf)
@@ -40,7 +40,7 @@ menu:
 - [*GROUNDEDKG-RAG: Grounded Knowledge Graph Index for Long-document Question Answering*](pdf/2026.kgllmlrec26-1.7.pdf)
   Tianyi Zhang and Andreas Marfurt
 
-- [*Ontology-Guided Synthetic Data Generation for Low-Resource Information Extraction: A Case Study in IT Heritage Domain*](pdf/2026.kgllmlrec26-1.8.pdf)
+- [*Ontology-Guided Synthetic Data Generation for Low-Resource Information Extraction: A Case Study in IT Heritage Domain*](pdf/2026.kgllmlrec26-1.8.pdf) [![poster](poster.png?height=18)](presentation/poster-1.8.pdf)
   Nakanyseth Vuth, Emrick Poncet, Gilles Sérasset, Didier Schwab, Caroline Djambian Djambian and Benjamin Lecouteux
 
 - [*A Clinical SKOS Ontology and Evaluation Benchmark for LLM Query Generation over ICU Knowledge Graphs*](pdf/2026.kgllmlrec26-1.9.pdf)
