@@ -46,7 +46,7 @@ menu:
 - [*A Clinical SKOS Ontology and Evaluation Benchmark for LLM Query Generation over ICU Knowledge Graphs*](pdf/2026.kgllmlrec26-1.9.pdf)
   Khurrum Ali
 
-- [*ReX-GG: A LLM Ensemble Pipeline for Relation-extraction and Graph Generation*](pdf/2026.kgllmlrec26-1.10.pdf)
+- [*ReX-GG: A LLM Ensemble Pipeline for Relation-extraction and Graph Generation*](pdf/2026.kgllmlrec26-1.10.pdf) [![poster](poster.png?height=18)](presentation/poster-1.10.pdf)
   Giacomo Magnifico and Eduard Barbu
 
 - [*Graph Fusion across Languages Using Large Language Models*](pdf/2026.kgllmlrec26-1.11.pdf)
