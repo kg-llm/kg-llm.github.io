@@ -34,7 +34,7 @@ menu:
 - [*Improving Text2Cypher with Confidence-Based Test-Time Strategies*](pdf/2026.kgllmlrec26-1.5.pdf) [![poster](poster.png?height=18)](presentation/poster-1.5.pdf) [![video](video.png?height=18)](https://drive.google.com/file/d/1zMXRrxCNsyjpDn64rqbFZBX7pd8V8t_1/view?usp=sharing)
   Rima Dessi and Makbule Gulcin Ozsoy
 
-- [*Integrating Knowledge Graph and Large Language Models for Defining Business Strategies*](pdf/2026.kgllmlrec26-1.6.pdf)
+- [*Integrating Knowledge Graph and Large Language Models for Defining Business Strategies*](pdf/2026.kgllmlrec26-1.6.pdf) [![poster](poster.png?height=18)](presentation/poster-1.6.pdf) [![video](video.png?height=18)](https://youtu.be/h1MPEvA-cwY)
   Eleonora Ghizzota, Alex Jordan, Alessandro Petruzzelli, Lucia Siciliani, Giuseppe Spillo, Pierpaolo Basile, Davide Sola, Giovanni Scarso Borioli and Giovanni Semeraro
 
 - [*GROUNDEDKG-RAG: Grounded Knowledge Graph Index for Long-document Question Answering*](pdf/2026.kgllmlrec26-1.7.pdf)
