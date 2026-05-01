@@ -49,19 +49,19 @@ menu:
 - [*ReX-GG: A LLM Ensemble Pipeline for Relation-extraction and Graph Generation*](pdf/2026.kgllmlrec26-1.10.pdf) [![poster](poster.png?height=18)](presentation/poster-1.10.pdf)
   Giacomo Magnifico and Eduard Barbu
 
-- [*Graph Fusion across Languages Using Large Language Models*](pdf/2026.kgllmlrec26-1.11.pdf)
+- [*Graph Fusion across Languages Using Large Language Models*](pdf/2026.kgllmlrec26-1.11.pdf) [![poster](poster.png?height=18)](presentation/poster-1.11.pdf) [![video](video.png?height=18)](https://drive.google.com/file/d/11mK6H0I9XfeSpPpMSkaLxO_I18ocTlmk/view?usp=sharing)
   Kaung Myat Kyaw, Khush Agarwal and Jonathan Chan
 
-- [*Efficient KG-Augmented RAG with Reusable Graph Community Summaries*](pdf/2026.kgllmlrec26-1.12.pdf)
+- [*Efficient KG-Augmented RAG with Reusable Graph Community Summaries*](pdf/2026.kgllmlrec26-1.12.pdf) [![poster](poster.png?height=18)](presentation/poster-1.12.pdf) [![video](video.png?height=18)](https://www.youtube.com/watch?v=akgTNyRdIQ4)
   Maha Karkout, Maria Andreevna Khodorchenko, Nikolay Alekseevich Butakov and Denis Nasonov
 
-- [*Stack2Graph: A Structured Knowledge Representation of Stack Overflow Data for Retrieval-based Question Answering*](pdf/2026.kgllmlrec26-1.13.pdf)
+- [*Stack2Graph: A Structured Knowledge Representation of Stack Overflow Data for Retrieval-based Question Answering*](pdf/2026.kgllmlrec26-1.13.pdf) [![poster](poster.png?height=18)](presentation/poster-1.13.pdf)
   Lukas Amadeus Kleybolte, Viviana Ventura and Alessandra Zarcone
 
 - [*LLM-based Atomic Propositions Help Weak Extractors: Evaluation of a Propositioner for Triplet Extraction*](pdf/2026.kgllmlrec26-1.14.pdf)
   Luc Pommeret, Thomas Gerald, Christophe Servan, Sahar Ghannay, Patrick Paroubek and Sophie Rosset
 
-- [*Towards Knowledge Graph-Grounded Evaluation of Agentic LLMs on Cybersecurity Capture-the-Flag Challenges*](pdf/2026.kgllmlrec26-1.15.pdf)
+- [*Towards Knowledge Graph-Grounded Evaluation of Agentic LLMs on Cybersecurity Capture-the-Flag Challenges*](pdf/2026.kgllmlrec26-1.15.pdf) [![poster](poster.png?height=18)](presentation/poster-1.15.pdf)
   Daniel Schlör, Marius Bohn, Maximilian Wolf, Kevin Bergner, Christian Goldschmied and Andreas Hotho
 
 ### 12:00–13:00 KG, LLMs and Retrieval
