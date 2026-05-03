@@ -43,7 +43,7 @@ menu:
 - [*Ontology-Guided Synthetic Data Generation for Low-Resource Information Extraction: A Case Study in IT Heritage Domain*](pdf/2026.kgllmlrec26-1.8.pdf) [![poster](poster.png?height=18)](presentation/poster-1.8.pdf)
   Nakanyseth Vuth, Emrick Poncet, Gilles Sérasset, Didier Schwab, Caroline Djambian Djambian and Benjamin Lecouteux
 
-- [*A Clinical SKOS Ontology and Evaluation Benchmark for LLM Query Generation over ICU Knowledge Graphs*](pdf/2026.kgllmlrec26-1.9.pdf)
+- [*A Clinical SKOS Ontology and Evaluation Benchmark for LLM Query Generation over ICU Knowledge Graphs*](pdf/2026.kgllmlrec26-1.9.pdf) [![poster](poster.png?height=18)](presentation/poster-1.9.pdf)
   Khurrum Ali
 
 - [*ReX-GG: A LLM Ensemble Pipeline for Relation-extraction and Graph Generation*](pdf/2026.kgllmlrec26-1.10.pdf) [![poster](poster.png?height=18)](presentation/poster-1.10.pdf)
