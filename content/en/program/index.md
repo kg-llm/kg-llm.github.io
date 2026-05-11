@@ -16,13 +16,13 @@ menu:
 ### 09:00–10:30 Session Oral 1: KG, LLMs and Generation
 **Chair:** Michael Cochez, Ellis Institute Finland & Åbo Akademi, Finland
 
-- [*Linguistic Initialization for Inductive Reasoning in Heterogeneous Knowledge Graphs*](pdf/2026.kgllmlrec26-1.1.pdf)
+- **09:00-09:30:** [*Linguistic Initialization for Inductive Reasoning in Heterogeneous Knowledge Graphs*](pdf/2026.kgllmlrec26-1.1.pdf)
   Daniele Pasquini, Danilo Croce and Roberto Basili
 
-- [*OntoBook: Ontology-Grounded Synthetic Textbooks for Medical Encoder Pretraining*](pdf/2026.kgllmlrec26-1.2.pdf)
+- **09:30-10:00:** [*OntoBook: Ontology-Grounded Synthetic Textbooks for Medical Encoder Pretraining*](pdf/2026.kgllmlrec26-1.2.pdf)
   Rian Touchent and Éric de la Clergerie
 
-- [*Conversational Control with Ontologies for Large Language Models: A Lightweight Framework for Constrained Generation*](pdf/2026.kgllmlrec26-1.3.pdf)
+- **10:00-10:30:** [*Conversational Control with Ontologies for Large Language Models: A Lightweight Framework for Constrained Generation*](pdf/2026.kgllmlrec26-1.3.pdf)
   Barbara Gendron, Gael Guibon and Mathieu d’Aquin
 
 ### 10:30–12:00 Session Poster: Poster Session
@@ -67,25 +67,25 @@ menu:
 ### 12:00–13:00 KG, LLMs and Retrieval
 **Chair:** Jan-Christoph Kalo, University of Amsterdam, Netherlands
 
-- [*End-to-End Graph Retrieval Pipeline for Specialized Domains*](pdf/2026.kgllmlrec26-1.16.pdf)
+- **12:00-12:30:** [*End-to-End Graph Retrieval Pipeline for Specialized Domains*](pdf/2026.kgllmlrec26-1.16.pdf)
   Haraldur Davidsson and Hazar Harmouch
 
-- [*The Structure-Content Trade-off in Knowledge Graph Retrieval: A Diagnostic Study of Question Decomposition*](pdf/2026.kgllmlrec26-1.17.pdf)
+- **12:30-13:00:** [*The Structure-Content Trade-off in Knowledge Graph Retrieval: A Diagnostic Study of Question Decomposition*](pdf/2026.kgllmlrec26-1.17.pdf)
   Valentin Six, Gaël de Chalendar and Evan Dufraisse
 
 ### 14:00–16:00 KG, LLMs and Evaluation
 **Chair:** Katerina Gkirtzou, Athena Research Center, Greece
 
-- [*Quantifying Retrieval Quality in GraphRAG: A Schema-Agnostic Approach*](pdf/2026.kgllmlrec26-1.18.pdf)
+- **14:00-14:30:** [*Quantifying Retrieval Quality in GraphRAG: A Schema-Agnostic Approach*](pdf/2026.kgllmlrec26-1.18.pdf)
   Thibaud Vanmechelen, Alexandre Achten, Zaineb Gabsi and Sabri Skhiri
 
-- [*A Wikidata-Based Framework to Measure Cross-Lingual Bias in Multilingual Large Language Models*](pdf/2026.kgllmlrec26-1.19.pdf)
+- **14:30-15:00:** [*A Wikidata-Based Framework to Measure Cross-Lingual Bias in Multilingual Large Language Models*](pdf/2026.kgllmlrec26-1.19.pdf)
   Mouloud Iferroudjene, Lisa Poggel, Andrea Schimmenti, Duo Yang, Kanchan Shivashankar, Jan-Christoph Kalo and Marta Boscariol
 
-- [*Evaluating Large Language Models for Strategic Knowledge Extraction in Capability-Based Planning*](pdf/2026.kgllmlrec26-1.20.pdf)
+- **15:00-15:30:** [*Evaluating Large Language Models for Strategic Knowledge Extraction in Capability-Based Planning*](pdf/2026.kgllmlrec26-1.20.pdf)
   Hein C. Kolk, Julia García-Fernández, Julia Bronkhorst and Roos M. Bakker
 
-- [*Large Language Models for Knowledge Graph Extraction: A Schema-Constrained Evaluation Framework*](pdf/2026.kgllmlrec26-1.21.pdf)
+- **15:30-16:00:** [*Large Language Models for Knowledge Graph Extraction: A Schema-Constrained Evaluation Framework*](pdf/2026.kgllmlrec26-1.21.pdf)
   Markus Ilves, Eduard Barbu and Jaan Übi
 
 ---
