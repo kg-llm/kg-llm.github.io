@@ -76,7 +76,7 @@ menu:
 ### 14:00–16:00 KG, LLMs and Evaluation
 **Chair:** Katerina Gkirtzou, Athena Research Center, Greece
 
-- **14:00-14:30:** [*Quantifying Retrieval Quality in GraphRAG: A Schema-Agnostic Approach*](pdf/2026.kgllmlrec26-1.18.pdf)
+- **14:00-14:30:** [*Quantifying Retrieval Quality in GraphRAG: A Schema-Agnostic Approach*](pdf/2026.kgllmlrec26-1.18.pdf) [![poster](poster.png?height=18)](slides/slides-1.18.pdf)
   Thibaud Vanmechelen, Alexandre Achten, Zaineb Gabsi and Sabri Skhiri
 
 - **14:30-15:00:** [*A Wikidata-Based Framework to Measure Cross-Lingual Bias in Multilingual Large Language Models*](pdf/2026.kgllmlrec26-1.19.pdf)
