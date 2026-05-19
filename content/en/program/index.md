@@ -22,7 +22,7 @@ menu:
 - **09:30-10:00:** [*OntoBook: Ontology-Grounded Synthetic Textbooks for Medical Encoder Pretraining*](pdf/2026.kgllmlrec26-1.2.pdf) [![poster](poster.png?height=18)](slides/slides-1.2.pdf)
   Rian Touchent and Éric de la Clergerie
 
-- **10:00-10:30:** [*Conversational Control with Ontologies for Large Language Models: A Lightweight Framework for Constrained Generation*](pdf/2026.kgllmlrec26-1.3.pdf)
+- **10:00-10:30:** [*Conversational Control with Ontologies for Large Language Models: A Lightweight Framework for Constrained Generation*](pdf/2026.kgllmlrec26-1.3.pdf) [![poster](poster.png?height=18)](slides/slides-1.3.pdf)
   Barbara Gendron, Gael Guibon and Mathieu d’Aquin
 
 ### 10:30–12:00 Session Poster: Poster Session
