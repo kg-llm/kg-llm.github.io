@@ -16,10 +16,10 @@ menu:
 ### 09:00–10:30 Session Oral 1: KG, LLMs and Generation
 **Chair:** Michael Cochez, Ellis Institute Finland & Åbo Akademi, Finland
 
-- **09:00-09:30:** [*Linguistic Initialization for Inductive Reasoning in Heterogeneous Knowledge Graphs*](pdf/2026.kgllmlrec26-1.1.pdf)
+- **09:00-09:30:** [*Linguistic Initialization for Inductive Reasoning in Heterogeneous Knowledge Graphs*](pdf/2026.kgllmlrec26-1.1.pdf) [![poster](poster.png?height=18)](slides/slides-1.1.pdf)
   Daniele Pasquini, Danilo Croce and Roberto Basili
 
-- **09:30-10:00:** [*OntoBook: Ontology-Grounded Synthetic Textbooks for Medical Encoder Pretraining*](pdf/2026.kgllmlrec26-1.2.pdf)
+- **09:30-10:00:** [*OntoBook: Ontology-Grounded Synthetic Textbooks for Medical Encoder Pretraining*](pdf/2026.kgllmlrec26-1.2.pdf) [![poster](poster.png?height=18)](slides/slides-1.2.pdf)
   Rian Touchent and Éric de la Clergerie
 
 - **10:00-10:30:** [*Conversational Control with Ontologies for Large Language Models: A Lightweight Framework for Constrained Generation*](pdf/2026.kgllmlrec26-1.3.pdf)
